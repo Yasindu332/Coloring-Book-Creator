@@ -1,0 +1,5 @@
+{
+  "name": "Kid's Coloring Book Generator",
+  "description": "An application that generates a personalized, 5-page coloring book for children based on a theme and their name. The final book, including a custom cover, can be downloaded as a PDF.",
+  "requestFramePermissions": []
+}
